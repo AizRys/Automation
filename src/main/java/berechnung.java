@@ -90,24 +90,5 @@ public class berechnung {
 
         WebElement elem = driver.findElement(By.xpath("//tr/th[2]/span[@class = 'preis']"));
         System.out.println(elem.getText());
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     }
 }
